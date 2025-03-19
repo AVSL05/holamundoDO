@@ -7,5 +7,4 @@ print("A cuatnos km estas baby?")
 print("Dormí 2 horas, soy un fakin loser")
 
 print("Mirenme soy imbecil, duermo 2 horas y me gustan las traumadas")
-print("No me gusta este juego, Soid Intjilente porq armoh un cubo rubikc en 1 min")
-print("OYE FRACASADO, ADIVINA QUE? ME COMPRO MI PAPI UNA NUEVA PC Y ES MUCHO MEJOR QUE LA TUYA 🫵😹")
+print("Esto lo leera el profe asi que comportense plox papus :v 👀 👀")
